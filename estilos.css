@@ -116,7 +116,7 @@ p:nth-child(2){
     color: #000;
 }
 
-@media (min-width:765px){
+@media (min-width:800px){
     body{
         background: url(./images/pattern-background-desktop.svg);
         background-repeat: no-repeat;
